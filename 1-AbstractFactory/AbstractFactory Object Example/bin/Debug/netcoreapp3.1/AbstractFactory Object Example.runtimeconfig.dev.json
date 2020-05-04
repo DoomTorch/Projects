@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Sitel-SW02\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Sitel-SW02\\.nuget\\packages"
+    ]
+  }
+}

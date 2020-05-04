@@ -1,0 +1,13 @@
+C:\Users\Sitel-SW02\Desktop\DesignPatterns-Samples-master\1- Creational Patterns\1-AbstractFactory\AbstractFactory Object Example\bin\Debug\netcoreapp3.1\AbstractFactory Object Example.exe
+C:\Users\Sitel-SW02\Desktop\DesignPatterns-Samples-master\1- Creational Patterns\1-AbstractFactory\AbstractFactory Object Example\bin\Debug\netcoreapp3.1\AbstractFactory Object Example.deps.json
+C:\Users\Sitel-SW02\Desktop\DesignPatterns-Samples-master\1- Creational Patterns\1-AbstractFactory\AbstractFactory Object Example\bin\Debug\netcoreapp3.1\AbstractFactory Object Example.runtimeconfig.json
+C:\Users\Sitel-SW02\Desktop\DesignPatterns-Samples-master\1- Creational Patterns\1-AbstractFactory\AbstractFactory Object Example\bin\Debug\netcoreapp3.1\AbstractFactory Object Example.runtimeconfig.dev.json
+C:\Users\Sitel-SW02\Desktop\DesignPatterns-Samples-master\1- Creational Patterns\1-AbstractFactory\AbstractFactory Object Example\bin\Debug\netcoreapp3.1\AbstractFactory Object Example.dll
+C:\Users\Sitel-SW02\Desktop\DesignPatterns-Samples-master\1- Creational Patterns\1-AbstractFactory\AbstractFactory Object Example\bin\Debug\netcoreapp3.1\AbstractFactory Object Example.pdb
+C:\Users\Sitel-SW02\Desktop\DesignPatterns-Samples-master\1- Creational Patterns\1-AbstractFactory\AbstractFactory Object Example\obj\Debug\netcoreapp3.1\AbstractFactory Object Example.csprojAssemblyReference.cache
+C:\Users\Sitel-SW02\Desktop\DesignPatterns-Samples-master\1- Creational Patterns\1-AbstractFactory\AbstractFactory Object Example\obj\Debug\netcoreapp3.1\AbstractFactory Object Example.csproj.CoreCompileInputs.cache
+C:\Users\Sitel-SW02\Desktop\DesignPatterns-Samples-master\1- Creational Patterns\1-AbstractFactory\AbstractFactory Object Example\obj\Debug\netcoreapp3.1\AbstractFactory Object Example.AssemblyInfoInputs.cache
+C:\Users\Sitel-SW02\Desktop\DesignPatterns-Samples-master\1- Creational Patterns\1-AbstractFactory\AbstractFactory Object Example\obj\Debug\netcoreapp3.1\AbstractFactory Object Example.AssemblyInfo.cs
+C:\Users\Sitel-SW02\Desktop\DesignPatterns-Samples-master\1- Creational Patterns\1-AbstractFactory\AbstractFactory Object Example\obj\Debug\netcoreapp3.1\AbstractFactory Object Example.dll
+C:\Users\Sitel-SW02\Desktop\DesignPatterns-Samples-master\1- Creational Patterns\1-AbstractFactory\AbstractFactory Object Example\obj\Debug\netcoreapp3.1\AbstractFactory Object Example.pdb
+C:\Users\Sitel-SW02\Desktop\DesignPatterns-Samples-master\1- Creational Patterns\1-AbstractFactory\AbstractFactory Object Example\obj\Debug\netcoreapp3.1\AbstractFactory Object Example.genruntimeconfig.cache
